@@ -1,0 +1,8 @@
+.DS_Store
+.bundle/
+log/*.log
+pkg/
+tmp/
+.sass-cache/
+config/database.yml
+config/omnom.local.yml
